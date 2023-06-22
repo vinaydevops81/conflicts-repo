@@ -1,5 +1,5 @@
 // jenkins file comment
 
-pipelines {
+pipeline {
     //some groovy code for jenkins dsaffdsa
 }
