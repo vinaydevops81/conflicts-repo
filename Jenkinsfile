@@ -1,5 +1,5 @@
 // jenkins file comment
 
 pipeline {
-    //some groovy code
+    //some groovy code for jenkins
 }
